@@ -1,0 +1,58 @@
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.csproj.AssemblyReference.cache
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial_2.frmEnunciado1.resources
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial_2.frmEnunciado2.resources
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial_2.frmPrincipal.resources
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.csproj.GenerateResource.cache
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\Parcial 2.exe
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\Parcial 2.dll.config
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\Parcial 2.deps.json
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\Parcial 2.runtimeconfig.json
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\Parcial 2.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\Parcial 2.pdb
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\OpenTK.Audio.OpenAL.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\OpenTK.Compute.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\OpenTK.Core.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\OpenTK.Graphics.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\OpenTK.Input.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\OpenTK.Mathematics.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\OpenTK.Windowing.Common.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\OpenTK.Windowing.Desktop.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\ScottPlot.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\ScottPlot.WinForms.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libglfw-wayland.so.3.3
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\glfw3.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\glfw3.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial_2.Properties.Resources.resources
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.csproj.Up2Date
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\refint\Parcial 2.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.pdb
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\Parcial 2.genruntimeconfig.cache
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\net8.0-windows\ref\Parcial 2.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\x86\tesseract50.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\x64\leptonica-1.82.0.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\x64\tesseract50.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\net8.0-windows\Tesseract.dll

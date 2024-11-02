@@ -1,0 +1,53 @@
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\Parcial 2.exe.config
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\Parcial 2.exe
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\Parcial 2.pdb
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\Parcial 2.csproj.AssemblyReference.cache
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\Parcial_2.frmEnunciado1.resources
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\Parcial_2.frmPrincipal.resources
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\Parcial_2.Properties.Resources.resources
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\Parcial 2.csproj.GenerateResource.cache
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\Parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\Parcial 2.exe
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\Parcial 2.pdb
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\libSkiaSharp.dylib
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\x64\libSkiaSharp.so
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\arm\libSkiaSharp.so
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\OpenTK.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\ScottPlot.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\SkiaSharp.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\SkiaSharp.Views.WindowsForms.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\System.Buffers.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\System.Drawing.Common.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\System.Memory.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\System.ValueTuple.dll
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\OpenTK.pdb
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\OpenTK.xml
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\ScottPlot.xml
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\ScottPlot.WinForms.xml
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\SkiaSharp.pdb
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\SkiaSharp.xml
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\SkiaSharp.Views.WindowsForms.pdb
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\SkiaSharp.Views.WindowsForms.xml
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\System.Buffers.xml
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\System.Drawing.Common.pdb
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\System.Drawing.Common.xml
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\System.Memory.xml
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\bin\Debug\System.ValueTuple.xml
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\Parcial_2.frmEnunciado2.resources
+C:\Users\G-P\OneDrive - Universidad Tecnológica de Panamá\II Desarrollo IV\Parcial2\Parcial 2\Parcial 2\obj\Debug\Parcial 2.csproj.Up2Date
